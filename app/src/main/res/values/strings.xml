@@ -6,7 +6,7 @@
     <string name="Version_PRO">About</string>
 
     <!-- OpenWeatherMAp API Houna -->
-    <string name="open_weather_maps_app_id">4940bb3cb1a15ee656774f9cb04b0b78</string>
+    <string name="open_weather_maps_app_id">Your ID</string>
 
     <!-- Les icones dial Weather.ttf hna -->
     <string name="weather_sunny">&#xf00d;</string>
@@ -21,7 +21,7 @@
 
     <string name="place_not_found">Oups, une erreur est survénu</string>
 
-    <string name="banner_ad_unit_id">ca-app-pub-5480726177216427/3238528798</string>
+    <string name="banner_ad_unit_id">YOUR ID</string>
 
 
 </resources>
